@@ -131,19 +131,19 @@ Cathodes are connected to GND.
 ### All LEDs ON
 
 
-[All LEDs ON]([all_leds_on.png](https://github.com/bitcrash79/Gesture-controlled-led-system/blob/main/all_leds_on.png))
+![All LEDs ON]([all_leds_on.png](https://github.com/bitcrash79/Gesture-controlled-led-system/blob/main/all_leds_on.png))
 
 
 ### Right Hand Detection
 
 
-[Right Hand]([right_hand_detection.png](https://github.com/bitcrash79/Gesture-controlled-led-system/blob/main/right_hand_detection.png))
+![Right Hand]([right_hand_detection.png](https://github.com/bitcrash79/Gesture-controlled-led-system/blob/main/right_hand_detection.png))
 
 
 ### Left Hand Detection
 
 
-[Left Hand]([left_hand_detection.png](https://github.com/bitcrash79/Gesture-controlled-led-system/blob/main/left_hand_detection.png))
+![Left Hand]([left_hand_detection.png](https://github.com/bitcrash79/Gesture-controlled-led-system/blob/main/left_hand_detection.png))
 
 
 ---
