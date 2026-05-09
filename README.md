@@ -131,7 +131,7 @@ Cathodes are connected to GND.
 ### All LEDs ON
 
 
-[All LEDs ON](all_leds_on.png)
+[All LEDs ON]([all_leds_on.png](https://github.com/bitcrash79/Gesture-controlled-led-system/blob/main/all_leds_on.png))
 
 
 ### Right Hand Detection
