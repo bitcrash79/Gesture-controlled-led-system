@@ -123,7 +123,7 @@ Cathodes are connected to GND.
 Add your circuit image here:
 
 ```markdown
-[Circuit Diagram](circuit_diagram.png)
+[Circuit Diagram]([circuit_diagram.png](https://github.com/bitcrash79/Gesture-controlled-led-system/blob/main/circuit_diagram.png))
 ```
 
 ---
