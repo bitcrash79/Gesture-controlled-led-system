@@ -143,7 +143,7 @@ Cathodes are connected to GND.
 ### Left Hand Detection
 
 
-[Left Hand](left_hand_detection.png)
+[Left Hand]([left_hand_detection.png](https://github.com/bitcrash79/Gesture-controlled-led-system/blob/main/left_hand_detection.png))
 
 
 ---
