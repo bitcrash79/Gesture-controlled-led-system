@@ -123,7 +123,7 @@ Cathodes are connected to GND.
 Add your circuit image here:
 
 ```markdown
-![Circuit Diagram](circuit_diagram.png)
+[Circuit Diagram](circuit_diagram.png)
 ```
 
 ---
@@ -133,19 +133,19 @@ Add your circuit image here:
 ### All LEDs ON
 
 ```markdown
-![All LEDs ON](all_leds_on.png)
+[All LEDs ON](all_leds_on.png)
 ```
 
 ### Right Hand Detection
 
 ```markdown
-![Right Hand](right_hand_detection.png)
+[Right Hand](right_hand_detection.png)
 ```
 
 ### Left Hand Detection
 
 ```markdown
-![Left Hand](left_hand_detection.png)
+[Left Hand](left_hand_detection.png)
 ```
 
 ---
