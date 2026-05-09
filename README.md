@@ -133,19 +133,19 @@ Add your circuit image here:
 ### All LEDs ON
 
 ```markdown
-![All LEDs ON](Screenshots/all_leds_on.png)
+![All LEDs ON](all_leds_on.png)
 ```
 
 ### Right Hand Detection
 
 ```markdown
-![Right Hand](Screenshots/right_hand_detection.png)
+![Right Hand](right_hand_detection.png)
 ```
 
 ### Left Hand Detection
 
 ```markdown
-![Left Hand](Screenshots/left_hand_detection.png)
+![Left Hand](left_hand_detection.png)
 ```
 
 ---
@@ -224,7 +224,7 @@ numpy
 
 ## Demo Video
 
-Add your demo video here.
+
 
 ---
 
