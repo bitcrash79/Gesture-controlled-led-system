@@ -120,9 +120,9 @@ Cathodes are connected to GND.
 
 ## Circuit Diagram
 
-```markdown
+
 ![Circuit Diagram]([circuit_diagram.png](https://github.com/bitcrash79/Gesture-controlled-led-system/blob/main/circuit_diagram.png))
-```
+
 
 ---
 
@@ -130,21 +130,21 @@ Cathodes are connected to GND.
 
 ### All LEDs ON
 
-```markdown
+
 [All LEDs ON](all_leds_on.png)
-```
+
 
 ### Right Hand Detection
 
-```markdown
+
 [Right Hand](right_hand_detection.png)
-```
+
 
 ### Left Hand Detection
 
-```markdown
+
 [Left Hand](left_hand_detection.png)
-```
+
 
 ---
 
